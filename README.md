@@ -1,2 +1,2 @@
-# emperature-to-Node-Red-
+# Temperature-to-Node-Red-
 Code for emperature to Node-Red 
